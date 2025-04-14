@@ -24,7 +24,7 @@ contract FleetOrderToken is ERC20, Ownable, Pausable {
     
     constructor() 
         Ownable(_msgSender()) 
-        ERC20("FleetOrderToken", "FOT")
+        ERC20("FleetOrderToken", "3WBFOT")
     {}
 
 
